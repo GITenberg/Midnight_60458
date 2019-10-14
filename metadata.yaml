@@ -1,5 +1,8 @@
 _repo: Midnight_60458
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60458-h/images/cover.jpg
 creator:
   author:
     agent_name: Montgomery, Rutherford G. (Rutherford George)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34150
     wikipedia: https://en.wikipedia.org/wiki/Rutherford_George_Montgomery
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60458#Midnight
 gutenberg_issued: '2019-10-08'
 gutenberg_type: Text
 identifiers:
