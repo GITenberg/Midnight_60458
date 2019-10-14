@@ -1,0 +1,28 @@
+_repo: Midnight_60458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montgomery, Rutherford G. (Rutherford George)
+    aliases:
+    - Montgomery, Rutherford George
+    - Montgomery, R. G. (Rutherford George)
+    - Proctor, Everitt
+    - Avery, Al
+    birthdate: 1896
+    deathdate: 1985
+    gutenberg_agent_id: '34150'
+    url: http://www.gutenberg.org/2009/agents/34150
+    wikipedia: https://en.wikipedia.org/wiki/Rutherford_George_Montgomery
+description: ''
+gutenberg_issued: '2019-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Midnight
+url: http://www.gutenberg.org/ebooks/60458
